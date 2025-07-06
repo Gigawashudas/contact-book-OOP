@@ -4,7 +4,7 @@
 To start the project run main.py
 
 
-# contact book CLI system
+# contact book CLI system using OOP
 
 TASKS:
 
